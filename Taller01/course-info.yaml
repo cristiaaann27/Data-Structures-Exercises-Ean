@@ -1,0 +1,18 @@
+type: marketplace
+title: Taller01
+language: English
+summary: |-
+  En este taller desarrollaremos un conjunto de ejercicios
+  introductorios al lenguaje Kotlin. En especial evaluaremos
+  los temas de:
+
+  - Expresiones básicas del lenguaje Kotlin
+  - Instrucciones repetitivas
+programming_language: Kotlin
+content:
+- lesson1
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+vendor:
+  name: Luis Cobo
