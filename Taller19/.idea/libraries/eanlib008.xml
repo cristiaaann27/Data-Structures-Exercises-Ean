@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eanlib008">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/eanlib008.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
