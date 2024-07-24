@@ -74,6 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Kotlin Language: For its powerful and expressive syntax.
 - IntelliJ IDEA: For its excellent support for Kotlin development.
 
----
-
-Feel free to modify the sections according to the specifics of your project and repository. If you have any more details or features to include, let me know!
