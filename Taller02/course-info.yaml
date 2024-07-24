@@ -1,0 +1,15 @@
+type: marketplace
+title: Taller02
+language: English
+summary: En este taller desarrollaremos ejercicios relacionados con la programación
+  orientada por objetos. Para ello desarrollaremos clases y resolveremos problemas
+  donde los objetos son necesarios para construir la solución al problema.
+programming_language: Kotlin
+content:
+- Ejemplo
+- lesson1
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+vendor:
+  name: Luis Cobo

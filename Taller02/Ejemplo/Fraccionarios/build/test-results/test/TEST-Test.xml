@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-08-09T03:35:08" hostname="DESKTOP-U3MMO4A" time="0.018">
+  <properties/>
+  <testcase name="testMenorQueMayorQue" classname="Test" time="0.008"/>
+  <testcase name="testFinal" classname="Test" time="0.001"/>
+  <testcase name="testMixto" classname="Test" time="0.001"/>
+  <testcase name="testSumar" classname="Test" time="0.003"/>
+  <testcase name="testPruebas" classname="Test" time="0.0"/>
+  <testcase name="testMayorMenor" classname="Test" time="0.001"/>
+  <testcase name="testMultiplicar" classname="Test" time="0.0"/>
+  <testcase name="testDividir" classname="Test" time="0.001"/>
+  <testcase name="testConversion" classname="Test" time="0.0"/>
+  <testcase name="testRestar" classname="Test" time="0.001"/>
+  <testcase name="testConstructor" classname="Test" time="0.0"/>
+  <testcase name="testModificadores" classname="Test" time="0.0"/>
+  <system-out><![CDATA[TestMenorQueMayorQue: Prueba superada!!
+Test Valor Absoluto: Prueba superada!
+Test Inverso: Prueba superada!!! ??
+TestMixto: Prueba superada ??
+TestSumar: Prueba superada! ??
+TestPropiaImpropiaUnidad: Prueba superada ??
+TestMenorMayor: Prueba superada!! ??
+TestMultiplicar: Prueba superada!!
+TestDividir: Prueba superada!!!
+TestConversion: Prueba superada! ??
+TestRestar: Prueba superada! ??
+testConstructor: Prueba superada ??
+TestCambiar: Prueba superada ??
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
